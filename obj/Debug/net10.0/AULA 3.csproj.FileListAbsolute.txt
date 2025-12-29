@@ -1,0 +1,29 @@
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\AULA 3.GeneratedMSBuildEditorConfig.editorconfig
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\AULA 3.AssemblyInfoInputs.cache
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\AULA 3.AssemblyInfo.cs
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\AULA 3.csproj.CoreCompileInputs.cache
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\bin\Debug\net10.0\AULA 3.exe
+D:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\bin\Debug\net10.0\AULA 3.deps.json
+D:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\bin\Debug\net10.0\AULA 3.runtimeconfig.json
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\bin\Debug\net10.0\AULA 3.dll
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\bin\Debug\net10.0\AULA 3.pdb
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\AULA 3.dll
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\refint\AULA 3.dll
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\AULA 3.pdb
+D:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\AULA 3.genruntimeconfig.cache
+D:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\ref\AULA 3.dll
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 3\obj\Debug\net10.0\AULA 3.sourcelink.json
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\bin\Debug\net10.0\AULA 3.exe
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\bin\Debug\net10.0\AULA 3.deps.json
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\bin\Debug\net10.0\AULA 3.runtimeconfig.json
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\bin\Debug\net10.0\AULA 3.dll
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\bin\Debug\net10.0\AULA 3.pdb
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\AULA 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\AULA 3.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\AULA 3.AssemblyInfo.cs
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\AULA 3.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\AULA 3.dll
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\refint\AULA 3.dll
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\AULA 3.pdb
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\AULA 3.genruntimeconfig.cache
+C:\Users\Paulo\Documents\C#\CURSO DE PROGRAMAÇÃO - KAIO\AULA 3\obj\Debug\net10.0\ref\AULA 3.dll
